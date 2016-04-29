@@ -1,12 +1,12 @@
 package tctactoe;
 import sun.audio.*;
-import java.io.*;
 import java.net.URL;
 import javax.swing.JLabel;
 import java.awt.Toolkit;
 /**
  *
- * @author sHAMIL MP
+ * @author: Gautam Krishna.R
+ * www.github.com/gautamkrishnar
  */
 public class mainframe extends javax.swing.JFrame {
 
